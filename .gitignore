@@ -1,0 +1,8 @@
+models/*.pt
+models/*.dat
+models/*.bz2
+
+__pycache__
+test_input/
+train_style_images/
+test_output/
